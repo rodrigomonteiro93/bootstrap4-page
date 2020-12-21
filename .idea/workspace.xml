@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d8f8c49-c3ab-4522-b9cb-76f869b5967a" name="Default Changelist" comment="" />
+    <list default="true" id="0d8f8c49-c3ab-4522-b9cb-76f869b5967a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.md" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +20,9 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1lvwFbJOcoIYBtXkwQQvnly7GsS" />
   <component name="ProjectViewState">
@@ -48,7 +55,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608490769550</updated>
-      <workItem from="1608490770595" duration="15209000" />
+      <workItem from="1608490770595" duration="16398000" />
+      <workItem from="1608517959873" duration="1685000" />
     </task>
     <servers />
   </component>
@@ -58,15 +66,26 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608492048612">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1608492048612" />
-    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1608490829698">
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1608514916117">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1608490829698" />
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1608514916117" />
     <state x="794" y="443" key="NewPhpFileDialog" timestamp="1608491569851">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
