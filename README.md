@@ -6,4 +6,4 @@ Init project
 - npm install jquery
 - npm install popper.js
 
-- visualização: https://rodrigomonteiro93.github.io/page-bootstrap4/
+visualização: https://rodrigomonteiro93.github.io/bootstrap4-page/
